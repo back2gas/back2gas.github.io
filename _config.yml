@@ -107,3 +107,9 @@ tag_archive:
 =======
 
 >>>>>>> master
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-FS8J6MGREE"
+    anonymize_ip         : # true, false (default)
