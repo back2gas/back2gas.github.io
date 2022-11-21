@@ -20,7 +20,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: back2gas
 minimal_mistakes_skin: default
 search: true
-comments : true
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      comments: true
 
 # Build settings
 markdown: kramdown
