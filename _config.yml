@@ -21,13 +21,10 @@ github_username: back2gas
 minimal_mistakes_skin: default
 search: true
 
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      comments: true
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "back2gas"
 
 # Build settings
 markdown: kramdown
@@ -90,7 +87,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -106,8 +103,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-comments:
-  providers: "disqus"
-  disqus:
-    shortname: "back2gas"
