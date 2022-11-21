@@ -103,10 +103,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-<<<<<<< HEAD
-=======
-
->>>>>>> master
 analytics:
   provider               : "google-gtag" 
                           # false (default), "google", "google-universal", "google-gtag", "custom"
