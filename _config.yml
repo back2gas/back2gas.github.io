@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "IDEAL_B"
-  avatar : "/assets/images/bio-photo.PHG"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "연구직이 되고 싶은 공돌이"
   links:
     - label: "Website"
