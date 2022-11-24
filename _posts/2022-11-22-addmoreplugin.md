@@ -20,7 +20,7 @@ tags:
 
  하지만 그 전에 몇가지 수행해야할 과정이 있다.
 
-<img src="https://github.com/back2gas/back2gas.github.io/blob/master/assets/images/GASC1.png?raw=true" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="Screenshot1"></img><br/>
+<img src="https://github.com/back2gas/back2gas.github.io/blob/master/assets/images/GASC1.png?raw=true" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="Screenshot1"><br/>
 
 웹스트림에 본인의 블로그를 등록한다.
 그러면 웹 스트림 세부정보 분석에서 다음과 같은 정보들을 볼 수 있을텐데 그 중 __측정ID__ 를 복사해주자.
@@ -48,6 +48,6 @@ git push <저장소명> <브랜치명>
 
 ## __3. 연동이 잘 되었는지 확인__
 
-<img src="https://github.com/back2gas/back2gas.github.io/blob/master/assets/images/GASC2.png?raw=true" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="Screenshot1"></img><br/>
+<img src="https://github.com/back2gas/back2gas.github.io/blob/master/assets/images/GASC2.png?raw=true" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="Screenshot1"><br/>
 
 잘 연동이 된것을 확인할 수 있다.
